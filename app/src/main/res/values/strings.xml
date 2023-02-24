@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">darkmodetest</string>
+    <string name="my_switch">My Switch</string>
+    <string name="switch1">Switch</string>
+    <string name="todo">TODO</string>
+</resources>
